@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sad on </title>
+    <link>//localhost:1313/tags/sad/</link>
+    <description>Recent content in Sad on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 26 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/sad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Empty Sleep No. 25</title>
+      <link>//localhost:1313/poems/poetry-25/</link>
+      <pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-25/</guid>
+      <description>I was inspired by the Empty Sleep when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Broken Gate No. 23</title>
+      <link>//localhost:1313/poems/poetry-23/</link>
+      <pubDate>Sat, 24 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-23/</guid>
+      <description>I was inspired by the Broken Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Absent Gate No. 21</title>
+      <link>//localhost:1313/poems/poetry-21/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-21/</guid>
+      <description>I was inspired by the Absent Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Cherished Face No. 16</title>
+      <link>//localhost:1313/poems/poetry-16/</link>
+      <pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-16/</guid>
+      <description>I was inspired by the Cherished Face when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Sunlit Day No. 14</title>
+      <link>//localhost:1313/poems/poetry-14/</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-14/</guid>
+      <description>I was inspired by the Sunlit Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Empty Heart No. 10</title>
+      <link>//localhost:1313/poems/poetry-10/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-10/</guid>
+      <description>I was inspired by the Empty Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Sunlit Day No. 8</title>
+      <link>//localhost:1313/poems/poetry-8/</link>
+      <pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-8/</guid>
+      <description>I was inspired by the Sunlit Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Sunlit Heart No. 7</title>
+      <link>//localhost:1313/poems/poetry-7/</link>
+      <pubDate>Thu, 08 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-7/</guid>
+      <description>I was inspired by the Sunlit Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Empty Heart No. 3</title>
+      <link>//localhost:1313/poems/poetry-3/</link>
+      <pubDate>Sun, 04 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-3/</guid>
+      <description>I was inspired by the Empty Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+  </channel>
+</rss>

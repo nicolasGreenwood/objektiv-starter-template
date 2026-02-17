@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>General on </title>
+    <link>//localhost:1313/tags/general/</link>
+    <description>Recent content in General on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 22 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/general/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative Entry No. 21</title>
+      <link>//localhost:1313/journal/entry-21/</link>
+      <pubDate>Thu, 22 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/entry-21/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst.</description>
+    </item>
+    <item>
+      <title>Broken Heart No. 19</title>
+      <link>//localhost:1313/poems/poetry-19/</link>
+      <pubDate>Tue, 20 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-19/</guid>
+      <description>I was inspired by the Broken Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Quiet Place No. 17</title>
+      <link>//localhost:1313/poems/poetry-17/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-17/</guid>
+      <description>I was inspired by the Quiet Place when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Thoughtful Record No. 17</title>
+      <link>//localhost:1313/journal/entry-17/</link>
+      <pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/journal/entry-17/</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst.</description>
+    </item>
+    <item>
+      <title>Cherished Heart No. 13</title>
+      <link>//localhost:1313/poems/poetry-13/</link>
+      <pubDate>Wed, 14 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-13/</guid>
+      <description>I was inspired by the Cherished Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Cherished Day No. 11</title>
+      <link>//localhost:1313/poems/poetry-11/</link>
+      <pubDate>Mon, 12 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-11/</guid>
+      <description>I was inspired by the Cherished Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Empty Heart No. 10</title>
+      <link>//localhost:1313/poems/poetry-10/</link>
+      <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-10/</guid>
+      <description>I was inspired by the Empty Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+    <item>
+      <title>Quiet Sky No. 4</title>
+      <link>//localhost:1313/poems/poetry-4/</link>
+      <pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/poems/poetry-4/</guid>
+      <description>I was inspired by the Quiet Sky when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua.</description>
+    </item>
+  </channel>
+</rss>

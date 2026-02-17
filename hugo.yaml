@@ -1,0 +1,59 @@
+baseURL: # put your base website url here. If your website lives at example.com, use https://example.com.
+languageCode: en-us # no need to touch this unless you need to switch to or add a new language.
+title: # Write a title here! Using your name is recommended.
+
+# no need to touch this unless you're adding/modifying sections in your site.
+mainSections: 
+  - poems
+  - journal
+
+# "params" means parameters. These are all custom settings for you to tweak!
+params:
+  name: # Put your actual name here (used for copyright statement).
+  description: # Explain your site in 2-3 sentences here. This is the first thing new visitors see when they land on your site's homepage.
+  social: # Add your social links here! You can add/remove as many as you like. Be sure to include a link to them too. It doesn't have to be limited to social media platforms. List all kinds of ways people can find you online!
+    - name: Facebook
+      link:
+    - name: Instagram
+      link:
+    - name: GitHub
+      link:
+  web3forms_access_key: # Paste your Web3Forms access key here!
+  cover: /images/fallbackogcover.jpg # this is a fallback cover image for the whole site. It's used for sharing links to your site on social media.
+  theme:
+    color: "#fb7185" # Change your theme color to whatever you like! It's set to a soft rose color. This color appears in the dot next to your site title, on buttons, and even on your favicon!
+
+menus: # All the menus on the site.
+  main: # The main menu is the one visible on the header of the site.
+
+    - name: column1 # It has two columns. This is the first one.
+    - weight: 10
+
+    - name: Poems # The name is the link text users see for each navigation link.
+      pageRef: /poems # This is the actual link users will be taken to when they click on it. Here we're referencing the home page for the "poems" section.
+      weight: 1 # "weight" is just used to help sort links in the right order.
+      parent: column1 # We specify column1 as the parent menu element, since this link belongs to column 1.
+    - name: Journal # Same rules apply for all links on this menu! No need to modify these unless you want to change the site structure.
+      pageRef: /journal
+      weight: 2
+      parent: column1
+
+    - name: column2
+    - weight: 20
+
+    - name: About
+      pageRef: /about
+      weight: 30
+      parent: column2
+    - name: Contact
+      pageRef: /contact
+      weight: 40
+      parent: column2
+
+# This bit of code below helps connect your website to the Objektiv theme. It shouldn't be touched unless you're ready to switch to another theme.
+module:
+  imports:
+    - disable: false
+      ignoreConfig: false
+      ignoreImports: false
+      path: github.com/nicolasGreenwood/gohugo-theme-objektiv
