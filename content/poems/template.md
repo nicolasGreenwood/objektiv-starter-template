@@ -13,7 +13,7 @@ tags: # List some tags here. These help you connect your posts with other relate
     - travel # ! Be sure to maintain indentation when you add tags!
 
 params: 
-    cover: /images/entry-1-cover.jpg # This is an important parameter. This is the featured image that every post has! Find a nice one that's free to use. The best sites incluse unsplash.com, pixabay.com, pexels.com and even WikiMedia Commons if you're looking for historical/geographic photos. Don't just use random images off of Google, as some of them may not be free to use. Download the images, upload them to the static/images folder and then link them here like this: /images/the-name-of-your-photo.jpg (or.png, or.webp, or whatever file extension your photo has.) And that's it!
+    cover: images/entry-1-cover.jpg # This is an important parameter. This is the featured image that every post has! Find a nice one that's free to use. The best sites incluse unsplash.com, pixabay.com, pexels.com and even WikiMedia Commons if you're looking for historical/geographic photos. Don't just use random images off of Google, as some of them may not be free to use. Download the images, upload them to the static/images folder and then link them here like this: /images/the-name-of-your-photo.jpg (or.png, or.webp, or whatever file extension your photo has.) And that's it!
 ---
 
 <!-- Write your poem here! You can use plain old markdown formatting. Let out the inner Shakespeare... -->

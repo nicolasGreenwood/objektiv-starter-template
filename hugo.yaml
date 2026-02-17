@@ -19,7 +19,7 @@ params:
     - name: GitHub
       link:
   web3forms_access_key: # Paste your Web3Forms access key here!
-  cover: /images/fallbackogcover.jpg # this is a fallback cover image for the whole site. It's used for sharing links to your site on social media.
+  cover: images/fallbackogcover.jpg # this is a fallback cover image for the whole site. It's used for sharing links to your site on social media.
   theme:
     color: "#fb7185" # Change your theme color to whatever you like! It's set to a soft rose color. This color appears in the dot next to your site title, on buttons, and even on your favicon!
 
@@ -30,11 +30,11 @@ menus: # All the menus on the site.
     - weight: 10
 
     - name: Poems # The name is the link text users see for each navigation link.
-      pageRef: /poems # This is the actual link users will be taken to when they click on it. Here we're referencing the home page for the "poems" section.
+      pageRef: poems # This is the actual link users will be taken to when they click on it. Here we're referencing the home page for the "poems" section.
       weight: 1 # "weight" is just used to help sort links in the right order.
       parent: column1 # We specify column1 as the parent menu element, since this link belongs to column 1.
     - name: Journal # Same rules apply for all links on this menu! No need to modify these unless you want to change the site structure.
-      pageRef: /journal
+      pageRef: journal
       weight: 2
       parent: column1
 
@@ -42,11 +42,11 @@ menus: # All the menus on the site.
     - weight: 20
 
     - name: About
-      pageRef: /about
+      pageRef: about
       weight: 30
       parent: column2
     - name: Contact
-      pageRef: /contact
+      pageRef: contact
       weight: 40
       parent: column2
 
