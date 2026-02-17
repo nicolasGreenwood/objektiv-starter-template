@@ -1,4 +1,4 @@
-baseURL: https://github.com/nicolasGreenwood/objektiv-starter-template # put your base website url here. If your website lives at example.com, use https://example.com.
+baseURL: "https://nicolasgreenwood.github.io/objektiv-starter-template/" # put your base website url here. If your website lives at example.com, use https://example.com.
 languageCode: en-us # no need to touch this unless you need to switch to or add a new language.
 title: Objektiv Starter Template # Write a title here! Using your name is recommended.
 
