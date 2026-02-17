@@ -1,6 +1,6 @@
-baseURL: # put your base website url here. If your website lives at example.com, use https://example.com.
+baseURL: https://github.com/nicolasGreenwood/objektiv-starter-template # put your base website url here. If your website lives at example.com, use https://example.com.
 languageCode: en-us # no need to touch this unless you need to switch to or add a new language.
-title: # Write a title here! Using your name is recommended.
+title: Objektiv Starter Template # Write a title here! Using your name is recommended.
 
 # no need to touch this unless you're adding/modifying sections in your site.
 mainSections: 
@@ -9,7 +9,7 @@ mainSections:
 
 # "params" means parameters. These are all custom settings for you to tweak!
 params:
-  name: # Put your actual name here (used for copyright statement).
+  name: Nicolas Greenwood # Put your actual name here (used for copyright statement).
   description: # Explain your site in 2-3 sentences here. This is the first thing new visitors see when they land on your site's homepage.
   social: # Add your social links here! You can add/remove as many as you like. Be sure to include a link to them too. It doesn't have to be limited to social media platforms. List all kinds of ways people can find you online!
     - name: Facebook
