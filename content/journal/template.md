@@ -2,7 +2,7 @@
 # Every time you write a new journal entry, you'll need to fill in these parameters. Don't worry, it's simple!
 title: My Lovely Title # Just a title, super easy. If you use a colon in title, enclose the whole thing in quotes.
 date: 2026-01-02 # The date must be in this format: "YYYY-MM-DD". Other formats will result in an error.
-draft: true # VERY IMPORTANT: switch this to "true" when you're ready to publish. Until then, this post will only remain in your content folder and not be published to the site.
+draft: false # VERY IMPORTANT: switch this to "false" when you're ready to publish. Until then, this post will only remain in your content folder and not be published to the site.
 summary: Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst. # Delete this text above and write a short, catchy summary. Often an excerpt works really well.
 tags: # List some tags here. These help you connect your posts with other related ones. Use as many as you like, but more importantly, the more posts share the same tag, the better.
     - walk

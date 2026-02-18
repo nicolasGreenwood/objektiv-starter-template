@@ -1,5 +1,6 @@
 ---
 title: About
+draft: false
 date: 2026-01-19 # Put today's date. Use the format: YYYY-MM-DD
 type: misc
 layout: about

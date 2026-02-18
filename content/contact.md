@@ -1,5 +1,6 @@
 ---
 title: Contact
+draft: false
 date: 2026-01-19
 type: misc
 layout: contact
