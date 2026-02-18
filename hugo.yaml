@@ -50,6 +50,17 @@ menus: # All the menus on the site.
       weight: 40
       parent: column2
 
+# This makes sure that line breaks work easily in markdown. Important for poetry!
+markup:
+  goldmark:
+    parser:
+      attribute:
+        block: true
+        title: true
+    renderer:
+      hardWraps: true
+      unsafe: true
+
 # This bit of code below helps connect your website to the Objektiv theme. It shouldn't be touched unless you're ready to switch to another theme.
 module:
   imports:
