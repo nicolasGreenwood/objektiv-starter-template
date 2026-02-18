@@ -1,10 +1,11 @@
 ---
-title: "Thoughtful Page No. 18"
+title: "Daily Notebook No. 18"
+draft: false
 date: 2026-01-19
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
+    - ideas
     - travel
-    - walk
 params: 
     cover: images/entry-18-cover.jpg
 ---

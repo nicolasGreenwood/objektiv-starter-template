@@ -1,17 +1,18 @@
 ---
-title: "Cherished Day No. 24"
+title: "Absent Sky No. 24"
+draft: false
 date: 2026-01-25
-summary: "I was inspired by the Cherished Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Absent Sky when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - love
+    - free verse
     - joy
 params: 
     cover: images/poetry-24-cover.jpg
 ---
 
-At vero eos et accusam Day, 
-The Cherished stet clita kasd gubergren, no sea takimata
-And though the love is now joy,
+At vero eos et accusam Sky, 
+The Absent stet clita kasd gubergren, no sea takimata
+And though the free verse is now joy,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

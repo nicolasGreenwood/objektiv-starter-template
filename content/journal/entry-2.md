@@ -1,9 +1,10 @@
 ---
-title: "Creative Page No. 2"
+title: "Private Notebook No. 2"
+draft: false
 date: 2026-01-03
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - introspective
+    - work
     - walk
 params: 
     cover: images/entry-2-cover.jpg

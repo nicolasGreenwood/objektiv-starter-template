@@ -1,10 +1,11 @@
 ---
-title: "Private Record No. 20"
+title: "Introspective Log No. 20"
+draft: false
 date: 2026-01-21
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
-    - walk
+    - introspective
+    - work
 params: 
     cover: images/entry-20-cover.jpg
 ---

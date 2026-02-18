@@ -27,7 +27,7 @@ menus: # All the menus on the site.
   main: # The main menu is the one visible on the header of the site.
 
     - name: column1 # It has two columns. This is the first one.
-    - weight: 10
+      weight: 10
 
     - name: Poems # The name is the link text users see for each navigation link.
       pageRef: poems # This is the actual link users will be taken to when they click on it. Here we're referencing the home page for the "poems" section.
@@ -39,7 +39,7 @@ menus: # All the menus on the site.
       parent: column1
 
     - name: column2
-    - weight: 20
+      weight: 20
 
     - name: About
       pageRef: about

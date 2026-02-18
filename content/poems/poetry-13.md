@@ -1,17 +1,18 @@
 ---
-title: "Cherished Heart No. 13"
+title: "Empty Sleep No. 13"
+draft: false
 date: 2026-01-14
-summary: "I was inspired by the Cherished Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Empty Sleep when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - love
-    - general
+    - free verse
+    - joy
 params: 
     cover: images/poetry-13-cover.jpg
 ---
 
-At vero eos et accusam Heart, 
-The Cherished stet clita kasd gubergren, no sea takimata
-And though the love is now general,
+At vero eos et accusam Sleep, 
+The Empty stet clita kasd gubergren, no sea takimata
+And though the free verse is now joy,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

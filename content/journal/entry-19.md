@@ -1,10 +1,11 @@
 ---
-title: "Observational Page No. 19"
+title: "Honest Sketch No. 19"
+draft: false
 date: 2026-01-20
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - ideas
     - walk
+    - work
 params: 
     cover: images/entry-19-cover.jpg
 ---

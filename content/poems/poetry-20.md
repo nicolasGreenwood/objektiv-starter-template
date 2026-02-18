@@ -1,7 +1,8 @@
 ---
-title: "Absent Heart No. 20"
+title: "Tearful Hands No. 20"
+draft: false
 date: 2026-01-21
-summary: "I was inspired by the Absent Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Tearful Hands when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
     - solitude
     - joy
@@ -9,8 +10,8 @@ params:
     cover: images/poetry-20-cover.jpg
 ---
 
-At vero eos et accusam Heart, 
-The Absent stet clita kasd gubergren, no sea takimata
+At vero eos et accusam Hands, 
+The Tearful stet clita kasd gubergren, no sea takimata
 And though the solitude is now joy,
 Maecenas nec odio et ante tincidunt tempus.
 

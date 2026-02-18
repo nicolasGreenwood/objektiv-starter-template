@@ -1,9 +1,10 @@
 ---
-title: "Creative Sketch No. 24"
+title: "Expressive Thought No. 24"
+draft: false
 date: 2026-01-25
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - work
+    - introspective
     - walk
 params: 
     cover: images/entry-24-cover.jpg

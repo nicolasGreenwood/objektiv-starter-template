@@ -1,10 +1,11 @@
 ---
-title: "Introspective Record No. 15"
+title: "Daily Notebook No. 15"
+draft: false
 date: 2026-01-16
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - work
-    - ideas
+    - walk
+    - travel
 params: 
     cover: images/entry-15-cover.jpg
 ---

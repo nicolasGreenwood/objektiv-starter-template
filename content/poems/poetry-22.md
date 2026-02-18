@@ -1,17 +1,18 @@
 ---
-title: "Cherished Gate No. 22"
+title: "Tearful Home No. 22"
+draft: false
 date: 2026-01-23
-summary: "I was inspired by the Cherished Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Tearful Home when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - love
-    - joy
+    - free verse
+    - general
 params: 
     cover: images/poetry-22-cover.jpg
 ---
 
-At vero eos et accusam Gate, 
-The Cherished stet clita kasd gubergren, no sea takimata
-And though the love is now joy,
+At vero eos et accusam Home, 
+The Tearful stet clita kasd gubergren, no sea takimata
+And though the free verse is now general,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

@@ -1,17 +1,18 @@
 ---
-title: "Cherished Face No. 16"
+title: "Cherished Day No. 16"
+draft: false
 date: 2026-01-17
-summary: "I was inspired by the Cherished Face when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Cherished Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
+    - solitude
     - free verse
-    - sad
 params: 
     cover: images/poetry-16-cover.jpg
 ---
 
-At vero eos et accusam Face, 
+At vero eos et accusam Day, 
 The Cherished stet clita kasd gubergren, no sea takimata
-And though the free verse is now sad,
+And though the solitude is now free verse,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

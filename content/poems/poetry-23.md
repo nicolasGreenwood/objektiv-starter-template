@@ -1,17 +1,18 @@
 ---
-title: "Broken Gate No. 23"
+title: "Empty Gate No. 23"
+draft: false
 date: 2026-01-24
-summary: "I was inspired by the Broken Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Empty Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - free verse
-    - sad
+    - solitude
+    - joy
 params: 
     cover: images/poetry-23-cover.jpg
 ---
 
 At vero eos et accusam Gate, 
-The Broken stet clita kasd gubergren, no sea takimata
-And though the free verse is now sad,
+The Empty stet clita kasd gubergren, no sea takimata
+And though the solitude is now joy,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

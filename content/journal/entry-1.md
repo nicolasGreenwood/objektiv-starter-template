@@ -1,10 +1,10 @@
 ---
-title: "Private Notebook No. 1"
-date: 2026-01-02
+title: "Observational Log No. 1"
 draft: false
+date: 2026-01-02
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - walk
+    - introspective
     - travel
 params: 
     cover: images/entry-1-cover.jpg

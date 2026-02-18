@@ -1,10 +1,11 @@
 ---
-title: "Thoughtful Reflection No. 5"
+title: "Introspective Diary No. 5"
+draft: false
 date: 2026-01-06
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
-    - ideas
+    - walk
+    - general
 params: 
     cover: images/entry-5-cover.jpg
 ---

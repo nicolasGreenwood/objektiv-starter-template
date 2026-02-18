@@ -1,13 +1,38 @@
+#!/bin/bash
+
+# Arrays for randomization
+titles=("Personal" "Reflective" "Daily" "Private" "Introspective" "Thoughtful" "Creative" "Observational" "Honest" "Expressive" "Emotional" "Mindful" "Organized" "Seasonal" "Spiritual")
+nouns=("Entry" "Page" "Notebook" "Diary" "Memoir" "Reflection" "Thought" "Record" "Log" "Sketch" "Idea" "Journal" "Outline" "Observation" "Writing")
+tags=("walk" "ideas" "introspective" "travel" "work")
+
+# Target directory
+mkdir -p content/journal
+
+for i in {1..25}
+do
+    DAY=$(printf "%02d" $(( (i % 28) + 1 )))
+
+    # Randomize metadata
+    T1=${titles[$((RANDOM % 10))]}
+    T2=${nouns[$((RANDOM % 10))]}
+    TAG1=${tags[$((RANDOM % 5))]}
+    TAG2=${tags[$((RANDOM % 5))]}
+    
+    # Ensure Tag 2 isn't the same as Tag 1 for better testing
+    [[ "$TAG1" == "$TAG2" ]] && TAG2="general"
+
+    # Create the file
+    cat <<EOF > "content/journal/entry-$i.md"
 ---
-title: "Thoughtful Page No. 11"
+title: "$T1 $T2 No. $i"
 draft: false
-date: 2026-01-12
+date: 2026-01-${DAY}
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - walk
-    - general
+    - $TAG1
+    - $TAG2
 params: 
-    cover: images/entry-11-cover.jpg
+    cover: images/entry-$i-cover.jpg
 ---
 
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt.
@@ -23,3 +48,7 @@ Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, p
 Phasellus leo dolor, tempus non, auctor et, hendrerit quis, nisi. Curabitur ligula sapien, tincidunt non, euismod vitae, posuere imperdiet, leo. Maecenas malesuada. Praesent congue erat at massa. Sed cursus turpis vitae tortor. Donec posuere vulputate arcu. Phasellus accumsan cursus velit. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Sed aliquam, nisi quis porttitor congue, elit erat euismod orci, ac placerat dolor lectus quis orci.
 
 Phasellus consectetuer vestibulum elit. Aenean tellus metus, bibendum sed, posuere ac, mattis non, nunc. Vestibulum fringilla pede sit amet augue. In turpis. Pellentesque posuere. Praesent turpis. Aenean posuere, tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus. Donec elit libero, sodales nec, volutpat a, suscipit non, turpis. Nullam sagittis. Suspendisse pulvinar, augue ac venenatis condimentum, sem libero volutpat nibh, nec pellentesque velit pede quis nunc.
+EOF
+done
+
+echo "Successfully generated 25 unique entries in /content/journal/"

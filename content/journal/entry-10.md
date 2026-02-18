@@ -1,10 +1,11 @@
 ---
-title: "Honest Log No. 10"
+title: "Thoughtful Memoir No. 10"
+draft: false
 date: 2026-01-11
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - ideas
-    - introspective
+    - walk
+    - work
 params: 
     cover: images/entry-10-cover.jpg
 ---

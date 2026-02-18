@@ -1,10 +1,11 @@
 ---
-title: "Expressive Notebook No. 13"
+title: "Daily Notebook No. 13"
+draft: false
 date: 2026-01-14
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
+    - travel
     - ideas
-    - work
 params: 
     cover: images/entry-13-cover.jpg
 ---

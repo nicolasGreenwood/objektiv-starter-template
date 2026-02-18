@@ -1,17 +1,18 @@
 ---
-title: "Empty Heart No. 10"
+title: "Lost Place No. 10"
+draft: false
 date: 2026-01-11
-summary: "I was inspired by the Empty Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Lost Place when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
     - sad
-    - general
+    - love
 params: 
     cover: images/poetry-10-cover.jpg
 ---
 
-At vero eos et accusam Heart, 
-The Empty stet clita kasd gubergren, no sea takimata
-And though the sad is now general,
+At vero eos et accusam Place, 
+The Lost stet clita kasd gubergren, no sea takimata
+And though the sad is now love,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

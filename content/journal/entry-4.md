@@ -1,10 +1,11 @@
 ---
-title: "Creative Entry No. 4"
+title: "Thoughtful Notebook No. 4"
+draft: false
 date: 2026-01-05
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
     - work
+    - ideas
 params: 
     cover: images/entry-4-cover.jpg
 ---

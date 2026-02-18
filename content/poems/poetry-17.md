@@ -1,17 +1,18 @@
 ---
-title: "Quiet Place No. 17"
+title: "Broken Day No. 17"
+draft: false
 date: 2026-01-18
-summary: "I was inspired by the Quiet Place when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Broken Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - free verse
-    - general
+    - solitude
+    - sad
 params: 
     cover: images/poetry-17-cover.jpg
 ---
 
-At vero eos et accusam Place, 
-The Quiet stet clita kasd gubergren, no sea takimata
-And though the free verse is now general,
+At vero eos et accusam Day, 
+The Broken stet clita kasd gubergren, no sea takimata
+And though the solitude is now sad,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

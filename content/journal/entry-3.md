@@ -1,10 +1,11 @@
 ---
-title: "Expressive Notebook No. 3"
+title: "Thoughtful Thought No. 3"
+draft: false
 date: 2026-01-04
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - work
-    - walk
+    - travel
+    - ideas
 params: 
     cover: images/entry-3-cover.jpg
 ---

@@ -1,17 +1,18 @@
 ---
-title: "Empty Sleep No. 25"
+title: "Tearful Gate No. 25"
+draft: false
 date: 2026-01-26
-summary: "I was inspired by the Empty Sleep when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Tearful Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - solitude
     - sad
+    - solitude
 params: 
     cover: images/poetry-25-cover.jpg
 ---
 
-At vero eos et accusam Sleep, 
-The Empty stet clita kasd gubergren, no sea takimata
-And though the solitude is now sad,
+At vero eos et accusam Gate, 
+The Tearful stet clita kasd gubergren, no sea takimata
+And though the sad is now solitude,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

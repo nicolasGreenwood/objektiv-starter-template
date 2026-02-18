@@ -1,10 +1,11 @@
 ---
-title: "Creative Entry No. 21"
+title: "Introspective Entry No. 21"
+draft: false
 date: 2026-01-22
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
-    - general
+    - work
+    - walk
 params: 
     cover: images/entry-21-cover.jpg
 ---

@@ -1,10 +1,11 @@
 ---
-title: "Personal Thought No. 14"
+title: "Thoughtful Page No. 14"
+draft: false
 date: 2026-01-15
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - introspective
-    - travel
+    - walk
+    - general
 params: 
     cover: images/entry-14-cover.jpg
 ---

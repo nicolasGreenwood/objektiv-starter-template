@@ -1,17 +1,18 @@
 ---
-title: "Quiet Sky No. 4"
+title: "Bitter Gate No. 4"
+draft: false
 date: 2026-01-05
-summary: "I was inspired by the Quiet Sky when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Bitter Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - love
-    - general
+    - free verse
+    - sad
 params: 
     cover: images/poetry-4-cover.jpg
 ---
 
-At vero eos et accusam Sky, 
-The Quiet stet clita kasd gubergren, no sea takimata
-And though the love is now general,
+At vero eos et accusam Gate, 
+The Bitter stet clita kasd gubergren, no sea takimata
+And though the free verse is now sad,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

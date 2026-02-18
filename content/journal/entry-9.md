@@ -1,10 +1,11 @@
 ---
-title: "Private Sketch No. 9"
+title: "Observational Thought No. 9"
+draft: false
 date: 2026-01-10
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - introspective
     - ideas
+    - travel
 params: 
     cover: images/entry-9-cover.jpg
 ---

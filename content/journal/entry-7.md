@@ -1,9 +1,10 @@
 ---
-title: "Daily Log No. 7"
+title: "Honest Log No. 7"
+draft: false
 date: 2026-01-08
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - introspective
+    - walk
     - work
 params: 
     cover: images/entry-7-cover.jpg

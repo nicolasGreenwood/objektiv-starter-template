@@ -1,17 +1,18 @@
 ---
-title: "Quiet Heart No. 2"
+title: "Sweet Home No. 2"
+draft: false
 date: 2026-01-03
-summary: "I was inspired by the Quiet Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Sweet Home when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - solitude
     - free verse
+    - love
 params: 
     cover: images/poetry-2-cover.jpg
 ---
 
-At vero eos et accusam Heart, 
-The Quiet stet clita kasd gubergren, no sea takimata
-And though the solitude is now free verse,
+At vero eos et accusam Home, 
+The Sweet stet clita kasd gubergren, no sea takimata
+And though the free verse is now love,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

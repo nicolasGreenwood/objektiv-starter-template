@@ -1,10 +1,11 @@
 ---
-title: "Personal Memoir No. 16"
+title: "Honest Record No. 16"
+draft: false
 date: 2026-01-17
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
     - ideas
+    - general
 params: 
     cover: images/entry-16-cover.jpg
 ---

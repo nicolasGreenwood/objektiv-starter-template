@@ -1,10 +1,11 @@
 ---
-title: "Thoughtful Record No. 17"
+title: "Honest Notebook No. 17"
+draft: false
 date: 2026-01-18
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - travel
-    - general
+    - walk
+    - introspective
 params: 
     cover: images/entry-17-cover.jpg
 ---

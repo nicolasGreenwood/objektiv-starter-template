@@ -1,17 +1,18 @@
 ---
-title: "Tearful Heart No. 12"
+title: "Absent Place No. 12"
+draft: false
 date: 2026-01-13
-summary: "I was inspired by the Tearful Heart when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Absent Place when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - love
-    - solitude
+    - free verse
+    - general
 params: 
     cover: images/poetry-12-cover.jpg
 ---
 
-At vero eos et accusam Heart, 
-The Tearful stet clita kasd gubergren, no sea takimata
-And though the love is now solitude,
+At vero eos et accusam Place, 
+The Absent stet clita kasd gubergren, no sea takimata
+And though the free verse is now general,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

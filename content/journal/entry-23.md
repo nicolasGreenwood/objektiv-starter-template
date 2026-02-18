@@ -1,10 +1,11 @@
 ---
-title: "Observational Entry No. 23"
+title: "Observational Notebook No. 23"
+draft: false
 date: 2026-01-24
 summary: "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Ut non enim eleifend felis pretium feugiat. Vivamus quis mi. Phasellus a est. Phasellus magna. In hac habitasse platea dictumst."
 tags: 
-    - walk
-    - ideas
+    - introspective
+    - work
 params: 
     cover: images/entry-23-cover.jpg
 ---

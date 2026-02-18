@@ -1,17 +1,18 @@
 ---
-title: "Quiet Sky No. 1"
+title: "Sunlit Hands No. 1"
+draft: false
 date: 2026-01-02
-summary: "I was inspired by the Quiet Sky when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Sunlit Hands when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - free verse
-    - solitude
+    - joy
+    - general
 params: 
     cover: images/poetry-1-cover.jpg
 ---
 
-At vero eos et accusam Sky, 
-The Quiet stet clita kasd gubergren, no sea takimata
-And though the free verse is now solitude,
+At vero eos et accusam Hands, 
+The Sunlit stet clita kasd gubergren, no sea takimata
+And though the joy is now general,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 

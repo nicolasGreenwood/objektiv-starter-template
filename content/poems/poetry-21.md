@@ -1,17 +1,18 @@
 ---
-title: "Absent Gate No. 21"
+title: "Cherished Day No. 21"
+draft: false
 date: 2026-01-22
-summary: "I was inspired by the Absent Gate when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
+summary: "I was inspired by the Cherished Day when writing this poem. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua."
 tags: 
-    - sad
-    - free verse
+    - solitude
+    - love
 params: 
     cover: images/poetry-21-cover.jpg
 ---
 
-At vero eos et accusam Gate, 
-The Absent stet clita kasd gubergren, no sea takimata
-And though the sad is now free verse,
+At vero eos et accusam Day, 
+The Cherished stet clita kasd gubergren, no sea takimata
+And though the solitude is now love,
 Maecenas nec odio et ante tincidunt tempus.
 
 Nulla consequat massa quis enim. 
