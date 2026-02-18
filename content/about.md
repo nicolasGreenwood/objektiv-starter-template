@@ -9,4 +9,4 @@ params:
     side_paragraph: # Write like a few cool sentences about yourself here. This is just that big paragraph on the side. The main text is for you to write below!
 ---
 
-<!-- Tell the world who you are here! The more the better. -->
+<!-- Tell the world who you are here! 3+ paragraphs is recommended. The more the better. -->

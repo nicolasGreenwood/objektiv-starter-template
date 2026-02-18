@@ -1,5 +1,7 @@
 baseURL: "https://nicolasgreenwood.github.io/objektiv-starter-template/" # put your base website url here. If your website lives at example.com, use https://example.com.
+
 languageCode: en-us # no need to touch this unless you need to switch to or add a new language.
+
 title: Objektiv Starter Template # Write a title here! Using your name is recommended.
 
 # no need to touch this unless you're adding/modifying sections in your site.
@@ -10,7 +12,13 @@ mainSections:
 # "params" means parameters. These are all custom settings for you to tweak!
 params:
   name: Nicolas Greenwood # Put your actual name here (used for copyright statement).
-  description: # Explain your site in 2-3 sentences here. This is the first thing new visitors see when they land on your site's homepage.
+
+  description: Replace this text with an explanation about your site in 2-3 sentences here. This is the first thing new visitors see when they land on your site's homepage.
+  description_link_text: Read more about me ->
+
+  subscribe_promo_text: Replace this text with a cool reason to subscribe.
+  buttondown_username: # put your buttondown username here after you create a buttondown account for your newsletter. The subscription form will activate and start working automatically when you do!
+
   social: # Add your social links here! You can add/remove as many as you like. Be sure to include a link to them too. It doesn't have to be limited to social media platforms. List all kinds of ways people can find you online!
     - name: Facebook
       link:
@@ -18,10 +26,13 @@ params:
       link:
     - name: GitHub
       link:
-  web3forms_access_key: # Paste your Web3Forms access key here!
+
+  web3forms_access_key: # Paste your Web3Forms access key here! It's for the contact form.
+
   cover: images/fallbackogcover.jpg # this is a fallback cover image for the whole site. It's used for sharing links to your site on social media.
+  
   theme:
-    color: "#fb7185" # Change your theme color to whatever you like! It's set to a soft rose color. This color appears in the dot next to your site title, on buttons, and even on your favicon!
+    color: "#fb7185" # Change your theme color to whatever you like! Use hexadecimal color format. It's currently set to a soft rose color. This color appears in the dot next to your site title, on buttons, and even on your favicon!
 
 menus: # All the menus on the site.
   main: # The main menu is the one visible on the header of the site.
