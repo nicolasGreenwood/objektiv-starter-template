@@ -53,7 +53,7 @@ jobs:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
           HUGO_ENVIRONMENT: production
         run: |
-          hugo --minify --printPathWarnings --printUnusedTemplates --debug
+          hugo --minify --printPathWarnings --printUnusedTemplates --logLevel debug
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

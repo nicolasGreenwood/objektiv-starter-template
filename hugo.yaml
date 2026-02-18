@@ -56,4 +56,4 @@ module:
     - disable: false
       ignoreConfig: false
       ignoreImports: false
-      path: github.com/nicolasGreenwood/gohugo-theme-objektiv
+      path: github.com/nicolasgreenwood/gohugo-theme-objektiv
